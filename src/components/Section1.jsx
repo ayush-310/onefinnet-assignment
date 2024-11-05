@@ -3,7 +3,7 @@ import { FiTarget } from "react-icons/fi";
 
 const Section1 = () => {
     return (
-        <div className='flex bg-black h-[110vh]  pb-5'>
+        <div className='flex bg-black h-[100vh]  pb-5'>
 
             {/* Box1 */}
             <div className='flex flex-col gap-3 justify-center items-center  w-[50%]'>
