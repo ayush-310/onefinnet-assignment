@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bimg {
+  background-image: url('https://i.pinimg.com/564x/01/2e/78/012e788d190d9c25429f8a9bf9ae4179.jpg');
+  /* Sets the background image */
+  /* height: calc(100vh - 4rem); Sets the height to the full viewport height minus 4rem */
+  background-repeat: no-repeat;
+  /* Prevents the background image from repeating */
+  background-position: center;
+  /* Centers the background image */
+  position: relative;
+}
+
+.hh {
+  height: calc(100vh - 7rem);
+}
+
+/* CSS */
+.button-24 {
+  background: #FF4742;
+  border: 1px solid #FF4742;
+  /* border-radius: 6px; */
+  box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: nunito, roboto, proxima-nova, "proxima nova", sans-serif;
+  font-size: 16px;
+  /* font-weight: 800; */
+  line-height: 16px;
+  min-height: 40px;
+  outline: 0;
+  padding: 12px 14px;
+  text-align: center;
+  text-rendering: geometricprecision;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+}
+
+
+.button-24:hover,
+.button-24:active {
+  background-color: initial;
+  background-position: 0 0;
+  color: #FF4742;
+}
+
+.button-24:active {
+  opacity: .5;
+}
+
+.libre-baskerville-bold {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.pos {
+  top: -8px;
+  right: -10px;
+}

@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "Name": "Trek Butterfly Madone",
+        "price": "$800",
+        "prev_price": "$1060",
+        "discount": "50",
+        "img": "https://i.pinimg.com/564x/b5/63/d9/b563d95501c63e45e63619566c3cdbdf.jpg"
+    },
+    {
+        "id": 2,
+        "Name": "Litespeed Blade ",
+        "price": "$460",
+        "prev_price": "$860",
+        "discount": "10",
+        "img": "https://i.pinimg.com/564x/45/29/1e/45291ee9fe76a9a2722aa5748c07764c.jpg"
+    },
+    {
+        "id": 3,
+        "Name": "Moots Routt RSL",
+        "price": "$300",
+        "prev_price": "$660",
+        "discount": "20",
+        "img": "https://i.pinimg.com/564x/3c/c7/3b/3cc73b5e804659a492d39dbf5e73b037.jpg"
+    },
+    {
+        "id": 4,
+        "Name": "Trek Yoshitomo Nara Speed ",
+        "price": "$553",
+        "prev_price": "$760",
+        "discount": "40",
+        "img": "https://i.pinimg.com/564x/43/8f/95/438f9527f2011655ae27928e74729845.jpg"
+    }
+]
